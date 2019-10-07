@@ -38,6 +38,7 @@ The following generators are available:
 * [jmeter](generators/jmeter)  
 * [kotlin](generators/kotlin)  
 * [lua](generators/lua)  
+* [nim (beta)](generators/nim)  
 * [objc](generators/objc)  
 * [ocaml](generators/ocaml)  
 * [perl](generators/perl)  
@@ -74,7 +75,8 @@ The following generators are available:
 * [cpp-restbed-server](generators/cpp-restbed-server)  
 * [csharp-nancyfx](generators/csharp-nancyfx)  
 * [erlang-server](generators/erlang-server)  
-* [fsharp-giraffe-server](generators/fsharp-giraffe-server)  
+* [fsharp-functions (beta)](generators/fsharp-functions)  
+* [fsharp-giraffe-server (beta)](generators/fsharp-giraffe-server)  
 * [go-gin-server](generators/go-gin-server)  
 * [go-server](generators/go-server)  
 * [graphql-nodejs-express-server](generators/graphql-nodejs-express-server)  
@@ -94,6 +96,7 @@ The following generators are available:
 * [jaxrs-spec](generators/jaxrs-spec)  
 * [kotlin-server](generators/kotlin-server)  
 * [kotlin-spring](generators/kotlin-spring)  
+* [kotlin-vertx (beta)](generators/kotlin-vertx)  
 * [nodejs-express-server (beta)](generators/nodejs-express-server)  
 * [nodejs-server-deprecated (deprecated)](generators/nodejs-server-deprecated)  
 * [php-laravel](generators/php-laravel)  
@@ -116,6 +119,7 @@ The following generators are available:
 
 
 ## DOCUMENTATION generators
+* [asciidoc](generators/asciidoc)  
 * [cwiki](generators/cwiki)  
 * [dynamic-html](generators/dynamic-html)  
 * [html](generators/html)  
